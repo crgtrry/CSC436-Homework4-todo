@@ -1,26 +1,28 @@
-# Todo
+# Homework 4 TODO
+Firebase database: https://console.firebase.google.com/u/0/project/an-angular-project/database/firestore/data~2FTasks~2FjSBoAroEBpLbtGLIDbUi
+Github location: https://github.com/crgtrry/CSC436-Homework4-todo/edit/master/README.md
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
+## Todo
+Uncomplete:
+  Failed to produce a list of Todo items
+  Did not get to adding Todo items
+  Did not get to perform update.
+  No extra credit tasks were accomplished
 
-## Development server
+## Project
+To run project:
+In Dist directory run: http-server dist/todo
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Challenges
+I got bogged down with data binding.  Could not produce a list of todo items before time ran out and that held up getting on tasks that were dependent on the list.
+Estimated time on project: 6.5 hours
 
 ## Build
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
+
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
