@@ -1,1 +1,8 @@
-<p>todo-list works!</p>
+  <p>To Do List working</p>
+<ul class="todo">
+  <!--Im getting the right number of items in todos but td is not bound to app-todo-item ...
+    may have to review some binding but this confused and bogged me down on this problem-->
+  <li *ngFor='let td of todos'>
+    <app-todo-item>[todo]=td</app-todo-item>
+  </li>
+</ul>
